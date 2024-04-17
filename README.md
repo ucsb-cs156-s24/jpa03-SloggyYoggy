@@ -1,6 +1,6 @@
 # STARTER-jpa03
 
-Running at: <http://jpa02-sloggyyoggy.dokku-10.cs.ucsb.edu/>
+Running at: <https://ucsb-cs156-s24.github.io/STARTER-jpa03/>
 
 # Configuring GitHub Pages for the documentation
 
